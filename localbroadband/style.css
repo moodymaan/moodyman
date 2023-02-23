@@ -63,8 +63,8 @@
 .navbar a:hover{
     color: #117964;
 }
-.baground{
-  background-color: black;
+.speed{
+  top: 10%;
 }
 
 @media (max-width: 768px){
