@@ -1,16 +1,11 @@
-
 *
 {
     margin : 0;
     padding : 0;
     box-sizing : border-box;
     font-family: 'Tilt Warp', cursive;
-}
-body{
     display: flex;
     background-color: black;
-    justify-content: center;
-    
 }
 .navigation{
     width: 400px;
@@ -19,7 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+    {
 .navigation ul{
     display: flex;
     width: 350px; 
