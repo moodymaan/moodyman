@@ -47,14 +47,14 @@ body{
     font-size: 1.3em;
     text-align: center;
     transition: 0.5s;
-    color:  whitesmoke;
+    color:  rgb(0, 0, 0);
 }
 .navigation ul li:hover a .icon{
     transform: translateY(-15px);
 }
 .navigation ul li a .text{
     position: absolute;
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: 400;
     font-size: 0.90em;
     letter-spacing: 0.25em;
